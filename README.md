@@ -1,2 +1,1 @@
-# projekt2
-pjc2nowszy
+# Projekt-C-server
